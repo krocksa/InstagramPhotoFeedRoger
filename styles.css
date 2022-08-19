@@ -1,0 +1,33 @@
+.w-100{
+  margin: auto;
+  border: 5px dashed white;
+  height: 186.4px;
+}
+
+.header{
+  display: flex;
+  width: 500px;
+  text-align: center;
+  background: white;
+  margin: auto;
+}
+.footer{
+  display: flex;
+  width: 500px;
+  text-align: left;
+  background: white;
+  margin: auto;
+}
+.left{
+  width: 15%;
+  
+}
+.right{
+  width: 85%;
+}
+.right,.left,.footer{
+  padding: 5px;
+}
+.img-scroll{
+  margin: auto;
+}
